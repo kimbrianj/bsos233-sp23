@@ -1,1 +1,1 @@
-# bsos233-sp23
+# BSOS 233 - Spring 2023 Material
